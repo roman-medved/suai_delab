@@ -7,6 +7,6 @@ int main() {
 	printf("Enter 3 numbers \n");
 	scanf_s("%d %d %d", &a, &b, &c);
 	int razn = b - a;
-	printf("difference= %d", razn);
+	printf("dif= %d", razn);
 	return 0;
 }
